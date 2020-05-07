@@ -1,0 +1,22 @@
+Customer Login
+Customer Registration
+ask for phone permissions
+add location
+select problem
+add details
+add request
+show mechanic
+accept mechanic
+contact mechanic 
+cancel mechanic
+give review
+mechanic registration
+mechanic login
+add location
+add details
+get request 
+accept request
+contact customer
+cancel request
+give review
+
